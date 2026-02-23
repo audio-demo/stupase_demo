@@ -22,30 +22,6 @@
         </div>
     </div>
 
-    <!-- Abstract Section -->
-    <div class="narrow-container" id="abstract">
-        <div class="abstract-section">
-            <h2>Abstract</h2>
-            <div class="abstract-text">
-                <p>
-                    Hallucination is a critical issue in generative speech enhancement (SE). 
-                    A representative approach, PASE, demonstrates strong robustness against hallucination under highly challenging acoustic conditions, yet its perceptual quality remains limited. 
-                    In this paper, we propose StuPASE, building upon PASE to achieve studio-level quality while retaining its low-hallucination property.
-                    We make two key technical contributions. 
-                    First, we show that PASE's degraded performance under severe reverberation largely stems from non-anechoic training targets: by removing early reflections in the training targets, simple fine-tuning of PASE yields substantial improvements in dereverberation. 
-                    Second, to address performance limitations under strong additive noise, we replace the simple GAN-based vocoder in PASE with a flow-matching module, enabling studio-quality generation even under highly noisy conditions. 
-                    Experimental results demonstrate that StuPASE consistently improves perceptual quality while preserving the low-hallucination property of PASE, outperforming existing state-of-the-art SE methods.
-                </p>
-            </div>
-            <div class="framework-image">
-                <img src="model_framework.png" alt="StuPASE Framework">
-            </div>
-            <div class="image-caption">
-                    <strong>Figure 1:</strong> Overview of the proposed StuPASE framework.
-            </div>
-        </div>
-    </div>
-
     <!-- Examples of the effect of early reflections-->>
      <div class="narrow-container" id="rir">
         <div class="section-title">Audio Examples of the Effect of Early Reflections</div>
