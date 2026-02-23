@@ -1,0 +1,1 @@
+fileid_211: [WER]=27.78%, [text]="this outwork readability indicated and did not more than barely express various properties of her figure life", [Delete]=1, [Insert]=0, [Replace]=4, [Equal]=13.

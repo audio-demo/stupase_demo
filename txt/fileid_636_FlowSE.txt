@@ -1,0 +1,1 @@
+fileid_636: [WER]=68.42%, [text]="you could help round with that since you came home i wish i had not had gauge fall on an orgyn", [Delete]=0, [Insert]=2, [Replace]=11, [Equal]=8.

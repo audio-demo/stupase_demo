@@ -1,0 +1,1 @@
+fileid_507: [WER]=72.73%, [text]="that is all quite true i am no doubt said sir ferd forgive my backward", [Delete]=0, [Insert]=4, [Replace]=4, [Equal]=7.

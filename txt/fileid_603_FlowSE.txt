@@ -1,0 +1,1 @@
+fileid_603: [WER]=55.56%, [text]="after burning nightfall the other lamps are lighted out even there the swallowed water of the broffins", [Delete]=1, [Insert]=0, [Replace]=9, [Equal]=8.

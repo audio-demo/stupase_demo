@@ -1,0 +1,1 @@
+fileid_636: [WER]=42.11%, [text]="how proud is god since you came home i wish i had an advocate for my fortune", [Delete]=2, [Insert]=0, [Replace]=6, [Equal]=11.

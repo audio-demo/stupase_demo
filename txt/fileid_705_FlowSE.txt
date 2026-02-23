@@ -1,0 +1,1 @@
+fileid_705: [WER]=58.33%, [text]="eons teach me to sew to pour out branditon as down cuts", [Delete]=1, [Insert]=1, [Replace]=5, [Equal]=6.

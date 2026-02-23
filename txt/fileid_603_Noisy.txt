@@ -1,0 +1,1 @@
+fileid_603: [WER]=38.89%, [text]="after early nightfall the evil lamps would light up near and there and destroy the court room of the prophets", [Delete]=0, [Insert]=2, [Replace]=5, [Equal]=13.

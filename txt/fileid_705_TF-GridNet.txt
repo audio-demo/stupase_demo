@@ -1,0 +1,1 @@
+fileid_705: [WER]=41.67%, [text]="dearest teach me so to war our gratitude and restaunt us good", [Delete]=0, [Insert]=0, [Replace]=5, [Equal]=7.

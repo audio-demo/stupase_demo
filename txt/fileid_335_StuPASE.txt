@@ -1,0 +1,1 @@
+fileid_335: [WER]=15.00%, [text]="he was soft hearted and impetuous said ben and being in love he did not stop to hear the because", [Delete]=0, [Insert]=0, [Replace]=3, [Equal]=17.

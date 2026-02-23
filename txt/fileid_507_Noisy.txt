@@ -1,0 +1,1 @@
+fileid_507: [WER]=100.00%, [text]="that is all quite true as you are walking down the road said surfer forgive my backwardness", [Delete]=0, [Insert]=6, [Replace]=5, [Equal]=6.

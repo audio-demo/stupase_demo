@@ -1,0 +1,1 @@
+fileid_603: [WER]=33.33%, [text]="after early nightfall the old lamps were lighted out here and there the swallowed quarter of the profits", [Delete]=0, [Insert]=0, [Replace]=6, [Equal]=12.

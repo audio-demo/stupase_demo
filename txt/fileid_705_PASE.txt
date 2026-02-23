@@ -1,0 +1,1 @@
+fileid_705: [WER]=66.67%, [text]="dearies each be so before our gratitude as thou hast and good", [Delete]=1, [Insert]=1, [Replace]=6, [Equal]=5.

@@ -1,0 +1,1 @@
+fileid_705: [WER]=58.33%, [text]="dearest keep me so forever granted as thou mayst be good", [Delete]=2, [Insert]=1, [Replace]=4, [Equal]=6.

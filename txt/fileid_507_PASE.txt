@@ -1,0 +1,1 @@
+fileid_507: [WER]=27.27%, [text]="that is all quite true mister nimmin said sir ferdinand gibbon", [Delete]=0, [Insert]=0, [Replace]=3, [Equal]=8.

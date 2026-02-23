@@ -1,0 +1,1 @@
+fileid_783: [WER]=27.78%, [text]="it did not beckon more indeed than all it was as still as the hand", [Delete]=3, [Insert]=0, [Replace]=2, [Equal]=13.

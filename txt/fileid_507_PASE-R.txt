@@ -1,0 +1,1 @@
+fileid_507: [WER]=36.36%, [text]="that is all quite true mister leverby said sir ferdinand of brighton", [Delete]=0, [Insert]=1, [Replace]=3, [Equal]=8.

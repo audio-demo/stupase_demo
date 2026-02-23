@@ -1,0 +1,1 @@
+fileid_211: [WER]=61.11%, [text]="this outlawed the portability of the dragon and did not more than fairly express the various capabilities much worth in", [Delete]=1, [Insert]=3, [Replace]=7, [Equal]=10.

@@ -1,0 +1,1 @@
+fileid_507: [WER]=81.82%, [text]="that is all quite true watching down the roads at surfer forgive my backwards", [Delete]=0, [Insert]=3, [Replace]=6, [Equal]=5.

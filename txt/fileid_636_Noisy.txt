@@ -1,0 +1,1 @@
+fileid_636: [WER]=15.79%, [text]="how proud you have got since you came home i wish i had an athlete to call my fortune", [Delete]=0, [Insert]=0, [Replace]=3, [Equal]=16.

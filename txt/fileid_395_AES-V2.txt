@@ -1,0 +1,1 @@
+fileid_395: [WER]=31.25%, [text]="it was at the last 2nd that the repairs of the sooner were completed", [Delete]=2, [Insert]=0, [Replace]=3, [Equal]=11.

@@ -1,0 +1,1 @@
+fileid_705: [WER]=25.00%, [text]="darius teach me so to pour out gratitude as downcast and good", [Delete]=0, [Insert]=0, [Replace]=3, [Equal]=9.

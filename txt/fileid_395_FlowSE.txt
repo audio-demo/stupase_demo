@@ -1,0 +1,1 @@
+fileid_395: [WER]=12.50%, [text]="it was of the last day of january that the repairs of the scooter were completed", [Delete]=0, [Insert]=0, [Replace]=2, [Equal]=14.

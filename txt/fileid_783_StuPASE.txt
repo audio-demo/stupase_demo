@@ -1,0 +1,1 @@
+fileid_783: [WER]=22.22%, [text]="it did not beg him or indeed move at all he was as still as the hand of death you", [Delete]=0, [Insert]=2, [Replace]=2, [Equal]=16.

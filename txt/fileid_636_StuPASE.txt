@@ -1,0 +1,1 @@
+fileid_636: [WER]=10.53%, [text]="how brown you have got since you came home i wish i had an athlete about my orchard", [Delete]=1, [Insert]=0, [Replace]=1, [Equal]=17.

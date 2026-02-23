@@ -1,0 +1,1 @@
+fileid_636: [WER]=21.05%, [text]="how proud you have got since you came home i wish i had an athlete around my origin", [Delete]=1, [Insert]=0, [Replace]=3, [Equal]=15.

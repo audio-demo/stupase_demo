@@ -1,0 +1,1 @@
+fileid_783: [WER]=105.56%, [text]="to the conclusion that we will stop losing if we start choosing love we have all known about the", [Delete]=0, [Insert]=1, [Replace]=18, [Equal]=0.

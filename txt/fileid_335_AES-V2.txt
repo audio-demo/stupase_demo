@@ -1,0 +1,1 @@
+fileid_335: [WER]=75.00%, [text]="he is so part of his family and he is lucky to have the car", [Delete]=5, [Insert]=0, [Replace]=10, [Equal]=5.

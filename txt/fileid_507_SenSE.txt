@@ -1,0 +1,1 @@
+fileid_507: [WER]=54.55%, [text]="that is all quite true as came down the road", [Delete]=1, [Insert]=0, [Replace]=5, [Equal]=5.

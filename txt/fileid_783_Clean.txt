@@ -1,0 +1,1 @@
+fileid_783: [WER]=0.00%, [text]="it did not beckon or indeed move at all it was as still as the hand of death", [Delete]=0, [Insert]=0, [Replace]=0, [Equal]=18.

@@ -1,0 +1,1 @@
+fileid_507: [WER]=54.55%, [text]="that is all quite true captain everett said sir ferdinand forgive my backwards", [Delete]=0, [Insert]=2, [Replace]=4, [Equal]=7.

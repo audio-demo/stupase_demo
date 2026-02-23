@@ -1,0 +1,1 @@
+fileid_335: [WER]=45.00%, [text]="he was saw tarded at a teche is said them and being in love he did not stop to careful cost", [Delete]=1, [Insert]=2, [Replace]=6, [Equal]=13.

@@ -1,0 +1,1 @@
+fileid_211: [WER]=22.22%, [text]="this outward mutability indicated and did not more than fairly express the various problems of the", [Delete]=2, [Insert]=0, [Replace]=2, [Equal]=14.

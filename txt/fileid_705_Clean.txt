@@ -1,0 +1,1 @@
+fileid_705: [WER]=0.00%, [text]="dearest teach me so to pour out gratitude as thou dost good", [Delete]=0, [Insert]=0, [Replace]=0, [Equal]=12.

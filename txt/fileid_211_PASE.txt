@@ -1,0 +1,1 @@
+fileid_211: [WER]=38.89%, [text]="this habit was rudely indicated and did not more than fairly express the various problems of the men", [Delete]=1, [Insert]=1, [Replace]=5, [Equal]=12.

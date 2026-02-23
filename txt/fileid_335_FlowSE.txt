@@ -1,0 +1,1 @@
+fileid_335: [WER]=40.00%, [text]="he was so talented and petulous said van and being a love he did not stop to hear", [Delete]=2, [Insert]=0, [Replace]=6, [Equal]=12.

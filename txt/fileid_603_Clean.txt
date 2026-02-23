@@ -1,0 +1,1 @@
+fileid_603: [WER]=0.00%, [text]="after early nightfall the yellow lamps would light up here and there the squalid quarter of the brothels", [Delete]=0, [Insert]=0, [Replace]=0, [Equal]=18.

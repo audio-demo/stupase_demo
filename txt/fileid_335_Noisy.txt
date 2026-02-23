@@ -1,0 +1,1 @@
+fileid_335: [WER]=50.00%, [text]="he is soft hearted and pretentious said ben an idiot like he did not stop dating the cops", [Delete]=2, [Insert]=0, [Replace]=8, [Equal]=10.

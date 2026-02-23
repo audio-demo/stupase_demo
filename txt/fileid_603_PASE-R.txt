@@ -1,0 +1,1 @@
+fileid_603: [WER]=16.67%, [text]="after early nightfall the yellow lamps would light up here and there in a squalid quarter of the broffins", [Delete]=0, [Insert]=1, [Replace]=2, [Equal]=16.

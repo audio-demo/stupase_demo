@@ -1,0 +1,1 @@
+fileid_603: [WER]=38.89%, [text]="after early nightfall thee of a lampstert light up here and there of the swallet quarter of the brofits", [Delete]=0, [Insert]=1, [Replace]=6, [Equal]=12.

@@ -1,0 +1,1 @@
+fileid_619: [WER]=18.18%, [text]="but this was what the tree could not bear till here", [Delete]=0, [Insert]=0, [Replace]=2, [Equal]=9.

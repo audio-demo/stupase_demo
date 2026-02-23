@@ -1,0 +1,1 @@
+fileid_783: [WER]=44.44%, [text]="or indeed it was at all it was as still as the hand he", [Delete]=5, [Insert]=1, [Replace]=2, [Equal]=11.

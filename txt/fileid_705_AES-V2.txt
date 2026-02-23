@@ -1,0 +1,1 @@
+fileid_705: [WER]=91.67%, [text]="dearest each we sow for our friends stow us goo", [Delete]=2, [Insert]=0, [Replace]=9, [Equal]=1.

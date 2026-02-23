@@ -1,0 +1,1 @@
+fileid_603: [WER]=27.78%, [text]="after early nightfall the yellow lamps were lighted up here and there in a squalid quarter of the province", [Delete]=0, [Insert]=1, [Replace]=4, [Equal]=14.
