@@ -181,7 +181,7 @@ html {
     color: #1e293b;
     margin-bottom: 25px;
     text-align: center;
-    border-bottom: 2px solid #f59e0b;
+    border-bottom: 2px solid #08f385;
     padding-bottom: 10px;
 }
 
@@ -317,7 +317,7 @@ html {
     margin-top: 5px;
     padding: 10px;
     background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
-    border-left: 4px solid #f59e0b;
+    border-left: 4px solid #08f385;
     border-radius: 10px;
     font-size: 0.9rem;
     color: #475569;
