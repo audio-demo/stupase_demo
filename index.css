@@ -185,6 +185,16 @@ html {
     padding-bottom: 10px;
 }
 
+.section-description {
+    font-size: 18px;
+    color: #444;
+    padding-left: 12px;
+    margin-left: 4px;
+    line-height: 1.6;
+    text-align: left;
+    background-color: #fff8f8;  /* 类似代码块灰色背景 */
+    border-left: 4px solid #888; /* 左边竖线强调 */
+}
 
 .file-section {
     margin-bottom: 10px;
@@ -257,8 +267,13 @@ html {
     border-color: #f59e0b;
 }
 
+.audio-card.highlight {
+    border: 0.16rem solid;
+    border-color: #08f385;
+}
+
 .card-title {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     color: #475569;
     margin-bottom: 15px;
