@@ -192,8 +192,8 @@ html {
     margin-left: 4px;
     line-height: 1.6;
     text-align: left;
-    background-color: #fff8f8;  /* 类似代码块灰色背景 */
-    border-left: 4px solid #888; /* 左边竖线强调 */
+    background-color: #fff8f8;
+    border-left: 4px solid #888;
 }
 
 .file-section {
